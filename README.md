@@ -1,6 +1,9 @@
 # Overview
 These symbols will help you to get rythm in your designs by applying them in your sketch files based on a 12 column grid for easy customization.
 
+![12 column grid](/doc/grid.png)
+
+
 # Dimensions
 * Made for Desktop width at 1440px, but you can stretch them as you need.
 * 10px margins/paddings.
