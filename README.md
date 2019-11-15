@@ -6,10 +6,11 @@ These symbols will help you to get rythm in your designs by applying them in you
 
 # Dimensions
 * Made for Desktop width at 1440px, but you can stretch them as you need.
-* 10px margins/paddings.
+* 8px margins/paddings.
 
 ### What'd you get
 Sketch file with:
+* 8px base scale
 * 12 columns
 * 1 row
 * paddings
@@ -25,4 +26,3 @@ Sketch file with:
 
 ### What's next?
 * Responsive.
-* Resize dimensions.
