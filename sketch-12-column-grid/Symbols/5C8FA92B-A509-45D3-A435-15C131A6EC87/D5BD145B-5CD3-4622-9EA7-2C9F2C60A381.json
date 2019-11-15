@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "692805DE-4B32-498A-94C3-1767C572CAC5",
+  "do_objectID": "D5BD145B-5CD3-4622-9EA7-2C9F2C60A381",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
-    "width": 10,
+    "height": 80,
+    "width": 1440,
     "x": 0,
     "y": 0
   },
@@ -29,7 +29,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "grid/elements/row-margin",
+  "name": "grid/elements/column-content",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "13B269AA-E297-4D45-BD28-C599F79A1C54",
+    "do_objectID": "0A4F27ED-DD4E-4E3B-B147-4105154D4BBB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2F070D65-9D06-4C24-A3ED-480915CD8C99",
+  "symbolID": "F4DECD29-3F0E-40A8-B95E-5554BB85B5D1",
   "verticalSpacing": 0
 }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "69ECE019-1398-401F-A5F7-859A1F9D0664",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 80,
     "width": 257,
     "x": 1640,
     "y": 0
@@ -61,6 +61,11 @@
   "name": "grid/elements/column-content",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "871C453A-D964-4F0E-8604-0F892733F7B4_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
