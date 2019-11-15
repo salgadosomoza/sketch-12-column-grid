@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 39,
   "clippingMaskMode": 0,
   "do_objectID": "5C8FA92B-A509-45D3-A435-15C131A6EC87",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 80,
     "width": 1440,
     "x": 0,
     "y": 2400
@@ -50,21 +50,44 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "7DB99442-3BC7-4076-8C21-8C105E19950F"
+      "class": "symbolInstance",
+      "id": "D5BD145B-5CD3-4622-9EA7-2C9F2C60A381"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "692805DE-4B32-498A-94C3-1767C572CAC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34A2298E-EB58-4D2A-BF6B-1CD4CC8C7B82"
     }
   ],
   "maintainScrollPosition": false,
   "name": "grid/row/row",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5BD145B-5CD3-4622-9EA7-2C9F2C60A381_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "692805DE-4B32-498A-94C3-1767C572CAC5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "34A2298E-EB58-4D2A-BF6B-1CD4CC8C7B82_symbolID"
+    }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

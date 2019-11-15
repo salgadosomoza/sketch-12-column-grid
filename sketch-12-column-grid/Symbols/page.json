@@ -89,6 +89,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5C8FA92B-A509-45D3-A435-15C131A6EC87"
+    },
+    {
+      "class": "symbolMaster",
       "id": "69ECE019-1398-401F-A5F7-859A1F9D0664"
     },
     {
@@ -98,10 +102,6 @@
     {
       "class": "symbolMaster",
       "id": "DF677E0F-90DE-4032-B41A-C825A66D3282"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "5C8FA92B-A509-45D3-A435-15C131A6EC87"
     }
   ],
   "maintainScrollPosition": false,
