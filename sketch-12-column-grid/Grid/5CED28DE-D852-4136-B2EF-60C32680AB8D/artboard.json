@@ -31,8 +31,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1387,
-    "width": 1460,
+    "height": 480,
+    "width": 1440,
     "x": 840,
     "y": -645
   },
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,77 +56,29 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2F80E8D8-907A-4A84-80C2-4BA5735C28FA"
+      "class": "symbolInstance",
+      "id": "F1B51F63-0326-4F56-80DD-0E2218269743"
     },
     {
-      "class": "rectangle",
-      "id": "B61E2C23-C32B-4879-95A0-A1327CD8D4F5"
+      "class": "symbolInstance",
+      "id": "3D93B383-8929-4C5B-9E8F-749DB0719450"
     },
     {
-      "class": "rectangle",
-      "id": "6ECEF059-215B-472B-9599-2A473E4C870A"
+      "class": "symbolInstance",
+      "id": "1F3D5440-175F-47C7-8A4A-02B167DC9CBC"
     },
     {
-      "class": "rectangle",
-      "id": "6AB2A096-EE76-4E56-BD91-D6BFA4ED8FE9"
-    },
-    {
-      "class": "rectangle",
-      "id": "D44FE58A-2A2D-4CBB-A165-7CB91E0A60D7"
-    },
-    {
-      "class": "rectangle",
-      "id": "12C6C45C-A721-4354-8793-479EFB4D298A"
-    },
-    {
-      "class": "rectangle",
-      "id": "16EDD732-4539-40C0-95C9-97EA4063727D"
-    },
-    {
-      "class": "rectangle",
-      "id": "7B1F608C-A91A-465C-A4BF-29C1383DAF4F"
-    },
-    {
-      "class": "text",
-      "id": "2EE075AF-4E52-4173-BEF2-45591BD587AF"
-    },
-    {
-      "class": "text",
-      "id": "F47D703B-20D8-408C-8C84-7E99B900C72F"
-    },
-    {
-      "class": "text",
-      "id": "D520E40C-2DD6-4C3F-8BC1-FD98E2D98B10"
-    },
-    {
-      "class": "text",
-      "id": "826F59E3-06AF-4958-9891-DDDAC3F44226"
-    },
-    {
-      "class": "text",
-      "id": "D464DF33-2250-4EF1-AC97-78971C446226"
-    },
-    {
-      "class": "text",
-      "id": "25E91BDA-D3E4-4C45-B3BD-716730BF30C2"
-    },
-    {
-      "class": "text",
-      "id": "E036D123-6BD7-4A11-ADC5-93A884418BE4"
-    },
-    {
-      "class": "text",
-      "id": "8BF4B11C-C33B-41FA-984F-0C755685EF16"
+      "class": "group",
+      "id": "EC769482-F892-4B81-98E5-5B114FA5EB4D"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 96.66666666666667,
-    "drawHorizontal": true,
+    "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": false,
     "gutterHeight": 8,
