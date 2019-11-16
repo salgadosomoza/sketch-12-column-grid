@@ -2,7 +2,7 @@
 These symbols will help you to get rythm in your designs by applying them in your sketch files based on a 12 column grid for easy customization.
 
 ![12 column grid](/doc/grid.png)
-![vertical rythm](/doc/vertical grid.png)
+![vertical rythm](/doc/vertical-grid.png)
 
 
 # Dimensions

@@ -91,7 +91,7 @@
     "totalWidth": 1280
   },
   "maintainScrollPosition": false,
-  "name": "vertical grid",
+  "name": "vertical-grid",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
