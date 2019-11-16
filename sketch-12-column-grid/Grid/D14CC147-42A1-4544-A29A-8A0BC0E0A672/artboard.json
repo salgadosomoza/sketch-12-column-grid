@@ -95,7 +95,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -164,7 +164,7 @@
     "gutterWidth": 10,
     "guttersOutside": true,
     "horizontalOffset": 100,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1280
